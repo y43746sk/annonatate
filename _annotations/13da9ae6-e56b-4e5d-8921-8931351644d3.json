@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/TW-D-01887-00044/canvas/1"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The bar where the fiesta started",
+            "purpose": "commenting",
+            "creator": {
+                "id": "y43746sk",
+                "name": "y43746sk"
+            },
+            "created": "2023-11-14T11:47:16.743Z",
+            "modified": "2023-11-14T11:47:25.534Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/TW-D-01887-00044",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/TW-D-01887-00044/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=511.2856750488281,150.1526336669922,339.4755554199219,274.19178771972656"
+        }
+    },
+    "id": "13da9ae6-e56b-4e5d-8921-8931351644d3.json",
+    "motivation": "commenting"
+}
