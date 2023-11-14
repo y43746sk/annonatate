@@ -1,0 +1,37 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/TW-D-01887-00044/canvas/1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "This tells the history of a famous spanish fiesta.",
+            "purpose": "tagging",
+            "creator": {
+                "id": "y43746sk",
+                "name": "y43746sk"
+            },
+            "created": "2023-11-14T11:43:31.939Z",
+            "modified": "2023-11-14T11:43:56.666Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/TW-D-01887-00044",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/TW-D-01887-00044/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1591.7318115234375,656.1017456054688 1960.5850830078125,646.3092041015625 1843.0743408203125,1152.25830078125 1627.637939453125,1086.9744873046875 1523.183837890625,845.4246215820312 1516.655517578125,796.4618530273438 1480.74951171875,675.6868896484375 1657.015625,763.8199462890625 1464.428466796875,610.4031372070312 1627.637939453125,561.4403076171875\"></polygon></svg>"
+        }
+    },
+    "id": "b833e42a-779e-487a-8e49-13332f551e69.json",
+    "motivation": "commenting"
+}
