@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2023-11-14 11:47:00.504918'
+  iiif: true
+  thumbnail: https://image.digitalcollections.manchester.ac.uk/iiif/TW-D-01887-00044-000-00001.jp2
+  title: Spanish Fiesta (D.1887.44)
+  url: https://www.digitalcollections.manchester.ac.uk/iiif/TW-D-01887-00044
+  user: y43746sk
 settings: {}
 version: '2.1'
